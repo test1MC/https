@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="sk" xml:lang="sk" SourceLanguage="en" FileFormatVersion="6" CreatedInVersion="11" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="645b8f40-c98f-475e-ab01-7ab4f0134217">
+    <ProjectFile Source="Target/Statistics.txt" Target="Target/Statistics.txt" />
+</LingoProject>
